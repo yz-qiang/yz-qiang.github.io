@@ -24,19 +24,20 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 
 # 🔥 News
-- [July 2023] Check out our preprint for evaluating instruction-tuned LLMs on code comprehension and generation tasks. <a href="https://arxiv.org/pdf/2308.01240.pdf" class="btn btn--info btn--xs">Preprint</a>
-- [May 2023] Check out our preprint on ChatGPT-based unit test generation. <a href="https://arxiv.org/pdf/2305.04207.pdf" class="btn btn--info btn--xs">Preprint</a> 
+- 🎉🎉 <a href="https://arxiv.org/pdf/2305.04207.pdf">ChatTester</a> (LLM-based Unit Test Generation) is accepted to <a href="https://2024.esec-fse.org/track/fse-2024-research-papers">FSE 2024</a>.
 
 
 # 📝 Publications 
 
 
-- <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;">[FSE'24]</strong></a>
+- <p>
+  <a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;">[FSE'24]</strong></a>
   Evaluating and Improving ChatGPT for Unit Test Generation.<br>
-  <span class="italic"><strong>Zhiqiang Yuan</strong>, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng, Yiling Lou</span>
-  In: <span class="italic">proceedings of the ACM International Conference on the Foundations of Software Engineering, to appear, July 2024, Brazil, Brazi</span>
+  <span class="italic"><strong>Zhiqiang Yuan</strong>, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng, Yiling Lou</span><br>
+  <em>In: Proceedings of the ACM International Conference on the Foundations of Software Engineering, to appear, July 2024, Brazil, Brazil</em><br>
   <a href="https://arxiv.org/abs/2308.01240"><strong style="color:blue;">[arXiv Preprint Version]</strong></a> <span> No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation </span>
-  </p>
+</p>
+
   
 
 - <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;"> [Preprint]</strong></a>
