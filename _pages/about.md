@@ -31,7 +31,7 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 # 📝 Publications 
 
 
-- <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:#003366;"> [Preprint]</strong></a>
+- <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;"> [Preprint]</strong></a>
   Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation.<br>
    <span class="italic"><strong>Zhiqiang Yuan</strong>, Junwei Liu, Qiancheng Zi, Mingwei Liu, Xin Peng, Yiling Lou</span>
   </p>
