@@ -48,6 +48,14 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 
 - <p>
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3617174"><strong style="color:#008080;">[TOSEM'23]</strong></a>
+  FQN Inference in Partial Code by Prompt-tuned Language Model of Code.<br>
+  In: <em>ACM Transactions on Software Engineering and MethodologyVolume 33Issue 2Article No.: 31pp 1–32</em><br>
+  <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Xin Peng, Qinghua Lu</span>
+  </p>
+
+
+- <p>
   <a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;"> [Preprint]</strong></a>
   SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval.<br>
   <span class="italic">Qing Huang, Dianshu Liao, Zhenchang Xing, <strong>Zhiqiang Yuan</strong>, Qinghua Lu, Xiwei Xu, Jiaxing Lu.</span>
@@ -61,8 +69,9 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
   </p>
     
 - <p><a href="https://dl.acm.org/doi/10.1145/3551349.3556912"><strong style="color:#008080;">[TSC'22]</strong></a>
-   1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application.<br>
-    <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia</span>
+  1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application.<br>
+  In: <em>IEEE Transactions on Services Computing</em><br>
+  <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia</span>
   </p>
 
 
