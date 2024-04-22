@@ -31,30 +31,34 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 # 📝 Publications 
 
 
+- <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;">[FSE'24]</strong></a>
+  Evaluating and Improving ChatGPT for Unit Test Generation.<br>
+  <span class="italic"><strong>Zhiqiang Yuan</strong>, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng, Yiling Lou</span>
+  In: <span class="italic">proceedings of the ACM International Conference on the Foundations of Software Engineering, to appear, July 2024, Brazil, Brazi</span>
+  <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:blue;">[arXiv Preprint Version]</strong></a> <span> No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation </span>
+  </p>
+  
+
 - <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;"> [Preprint]</strong></a>
   Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation.<br>
    <span class="italic"><strong>Zhiqiang Yuan</strong>, Junwei Liu, Qiancheng Zi, Mingwei Liu, Xin Peng, Yiling Lou</span>
   </p>
 
 
-
-- <p>No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation.<br>
-    <span class="italic"><strong>Zhiqiang Yuan</strong>, Yiling Lou, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng</span>
-    <a href="https://arxiv.org/abs/2305.04207" class="btn btn--info btn--xs">Preprint</a></p>
-
-- <p>SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval.<br>
+- <p><a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;"> [Preprint]</strong></a>
+   SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval.<br>
     <span class="italic">Qing Huang, Dianshu Liao, Zhenchang Xing, <strong>Zhiqiang Yuan</strong>, Qinghua Lu, Xiwei Xu, Jiaxing Lu.</span>
-    <a href="https://arxiv.org/abs/2212.08221" class="btn btn--info btn--xs">Preprint</a></p>
+    </p>
 
-- <p>Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code.<br>
+- <p><a href="https://dl.acm.org/doi/10.1145/3551349.3556912"><strong style="color:#008080;">[ASE'22]</strong></a>
+   Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code.<br>
     <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Xiwei Xu, Liming Zhu, Qinghua Lu</span>
-    <a href="https://dl.acm.org/doi/10.1145/3551349.3556912" class="btn btn--info btn--xs">ASE 2022</a></p>
+  </p>
     
-- <p>1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application.<br>
+- <p><a href="https://dl.acm.org/doi/10.1145/3551349.3556912"><strong style="color:#008080;">[TSC'22]</strong></a>
+   1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application.<br>
     <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9894095" class="btn btn--info btn--xs">TSC 2022</a></p>
-
-
+  </p>
 
 
 
