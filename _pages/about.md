@@ -31,11 +31,11 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 
 - <p>
-  <a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;">[FSE'24]</strong></a>
+  <a href="https://arxiv.org/abs/2305.04207"><strong style="color:#008080;">[FSE'24]</strong></a>
   Evaluating and Improving ChatGPT for Unit Test Generation.<br>
   <span class="italic"><strong>Zhiqiang Yuan</strong>, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng, Yiling Lou</span><br>
   In: <em>Proceedings of the ACM International Conference on the Foundations of Software Engineering, to appear, July 2024, Brazil, Brazil</em><br>
-  <a href="https://arxiv.org/abs/2308.01240"><strong style="color:#003366;">[arXiv Preprint Version]</strong></a> <span> No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation </span>
+  <a href="https://arxiv.org/abs/2305.04207"><strong style="color:#003366;">[arXiv Preprint Version]</strong></a> <span> No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation </span>
   </p>
 
   
@@ -56,7 +56,7 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 
 - <p>
-  <a href="https://arxiv.org/abs/2308.01240"><strong style="color:#008080;"> [Preprint]</strong></a>
+  <a href="https://arxiv.org/abs/2212.08221"><strong style="color:#008080;"> [Preprint]</strong></a>
   SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval.<br>
   <span class="italic">Qing Huang, Dianshu Liao, Zhenchang Xing, <strong>Zhiqiang Yuan</strong>, Qinghua Lu, Xiwei Xu, Jiaxing Lu.</span>
   </p>
@@ -68,7 +68,7 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
   <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Xiwei Xu, Liming Zhu, Qinghua Lu</span>
   </p>
     
-- <p><a href="https://dl.acm.org/doi/10.1145/3551349.3556912"><strong style="color:#008080;">[TSC'22]</strong></a>
+- <p><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894095"><strong style="color:#008080;">[TSC'22]</strong></a>
   1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application.<br>
   In: <em>IEEE Transactions on Services Computing</em><br>
   <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia</span>
