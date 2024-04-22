@@ -17,42 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Zhiqiang Yuan is currently a Ph.D. candidate at Fudan University. 
+As a member of <a href="http://www.se.fudan.edu.cn/">CodeWisdom Group</a>, he holds a valuable opportunity to work under the guidance of <a href="https://cspengxin.github.io/">Prof. Xin Peng</a> and <a href="https://yilinglou.github.io/index.html"> Prof. Yiling Lou </a>.
+His research primarily focuses on the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific emphasis on the interplay between AI for Software Engineering (AI4SE) and Software Engineering for AI (SE4AI).
+His primary interest is leveraging advanced Artificial Intelligence methodologies, such as large language models and knowledge graphs, to address software engineering challenges and tackle the software engineering problems prevalent in AI applications and scenarios.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [July 2023] Check out our preprint for evaluating instruction-tuned LLMs on code comprehension and generation tasks. <a href="https://arxiv.org/pdf/2308.01240.pdf" class="btn btn--info btn--xs">Preprint</a>
+- [May 2023] Check out our preprint on ChatGPT-based unit test generation. <a href="https://arxiv.org/pdf/2305.04207.pdf" class="btn btn--info btn--xs">Preprint</a> 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- <p>Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation.<br>
+    <span class="italic"><strong>Zhiqiang Yuan</strong>, Junwei Liu, Qiancheng Zi, Mingwei Liu, Xin Peng, Yiling Lou</span>
+    <a href="https://arxiv.org/abs/2308.01240" class="btn btn--info btn--xs">Preprint</a></p>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- <p>No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation.<br>
+    <span class="italic"><strong>Zhiqiang Yuan</strong>, Yiling Lou, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng</span>
+    <a href="https://arxiv.org/abs/2305.04207" class="btn btn--info btn--xs">Preprint</a></p>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- <p>SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval.<br>
+    <span class="italic">Qing Huang, Dianshu Liao, Zhenchang Xing, <strong>Zhiqiang Yuan</strong>, Qinghua Lu, Xiwei Xu, Jiaxing Lu.</span>
+    <a href="https://arxiv.org/abs/2212.08221" class="btn btn--info btn--xs">Preprint</a></p>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- <p>Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code.<br>
+    <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Xiwei Xu, Liming Zhu, Qinghua Lu</span>
+    <a href="https://dl.acm.org/doi/10.1145/3551349.3556912" class="btn btn--info btn--xs">ASE 2022</a></p>
+    
+- <p>1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application.<br>
+    <span class="italic">Qing Huang, <strong>Zhiqiang Yuan</strong>, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia</span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9894095" class="btn btn--info btn--xs">TSC 2022</a></p>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.10*,  Presentation paper at the ASE'22.  \| [\[video\]](https://www.bilibili.com/video/BV1mV4y1L7c5/?share_source=copy_web&vd_source=e7a1b4e73c4b3ccf3228ca017ba2a9f9/)
