@@ -34,6 +34,25 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
     <span class="italic"><strong>Zhiqiang Yuan</strong>, Junwei Liu, Qiancheng Zi, Mingwei Liu, Xin Peng, Yiling Lou</span>
     <a href="https://arxiv.org/abs/2308.01240" class="btn btn--info btn--xs">Preprint</a></p>
 
+<div>
+            <span class="conf">[ASE 2023]</span>
+            Generating Variable Explanations via Zero-shot Prompt Learning
+            <br>
+            <span class="conf-long"> In: proceedings of the 38th IEEE/ACM International
+                Conference on Automated Software Engineering, to appear, Sept 2023,
+                Kirchberg, Luxembourg</span>
+        </span>
+        <br>
+        <span>
+            Chong Wang,
+            Yiling Lou,
+            <strong>Junwei Liu</strong>,
+            Xin Peng
+        </span>
+  
+</div>
+
+
 - <p>No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation.<br>
     <span class="italic"><strong>Zhiqiang Yuan</strong>, Yiling Lou, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng</span>
     <a href="https://arxiv.org/abs/2305.04207" class="btn btn--info btn--xs">Preprint</a></p>
