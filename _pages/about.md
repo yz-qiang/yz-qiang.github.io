@@ -29,6 +29,12 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 # 📝 Publications 
 
+- <p>
+  <a href="https://arxiv.org/pdf/2409.19894v1"><strong style="color:#008080;"> [Preprint]</strong></a>
+  TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation.<br>
+  <span class="italic"><strong>Zhiqiang Yuan</strong>, Weitong Chen, Hanlin Wang, Kai Yu, Xin Peng, Yiling Lou</span>
+  </p>
+  
 
 - <p>
   <a href="https://arxiv.org/abs/2305.04207"><strong style="color:#008080;">[FSE'24]</strong></a>
