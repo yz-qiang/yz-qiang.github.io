@@ -62,7 +62,7 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 
 - <p>
-  <a href="https://arxiv.org/abs/2212.08221"><strong style="color:#008080;"> [Preprint]</strong></a>
+  <a href="https://arxiv.org/abs/2212.08221"><strong style="color:#008080;"> [TKDE'24]</strong></a>
   SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval.<br>
   <span class="italic">Qing Huang, Dianshu Liao, Zhenchang Xing, <strong>Zhiqiang Yuan</strong>, Qinghua Lu, Xiwei Xu, Jiaxing Lu.</span>
   </p>
