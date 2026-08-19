@@ -89,4 +89,5 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 
 # 💬 Invited Talks
+- *2026*, 受邀参加 2026 开放原子开源生态大会·AI 时代 Rust 编程语言应用与发展论坛。
 - *2022.10*,  Presentation paper at the ASE'22.  \| [\[video\]](https://www.bilibili.com/video/BV1mV4y1L7c5/?share_source=copy_web&vd_source=e7a1b4e73c4b3ccf3228ca017ba2a9f9/)
