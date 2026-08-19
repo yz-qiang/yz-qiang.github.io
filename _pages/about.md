@@ -26,7 +26,6 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 # 🔥 News
 - 🎉🎉 <a href="https://doi.org/10.1145/3808169">Project-Level C-to-Rust Translation via Pointer Knowledge Graphs</a> is accepted to FSE 2026.
 - 🎉🎉 <a href="https://doi.org/10.1145/3797099">TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained Execution Alignment</a> is accepted to FSE 2026.
-- 🎉🎉 <a href="https://arxiv.org/pdf/2305.04207.pdf">ChatTester</a> (LLM-based Unit Test Generation) is accepted to <a href="https://2024.esec-fse.org/track/fse-2024-research-papers">FSE 2024</a>.
 
 
 # 📝 Publications 
