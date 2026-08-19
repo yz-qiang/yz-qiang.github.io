@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiqiang Yuan"
-description              : "Software Engineering · AI4SE · SE4AI · Code Intelligence"
+description              : "Fudan University, Software Engineering Laboratory, Ph.D. student. Research fields: AI4SE, SE4AI, Software Development Knowledge Graph "
 repository               : "yz-qiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiqiang Yuan"
   avatar           : "images/yzq.png"
-  bio              : "Ph.D. Candidate at Fudan University"
+  # bio              : "Lorem ipsum College"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yz-qiang"
+  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
