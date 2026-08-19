@@ -31,6 +31,12 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 # 📝 Publications 
 
 - <p>
+  <a href="https://arxiv.org/abs/2604.05955"><strong style="color:#008080;">[Preprint]</strong></a>
+  Does Pass Rate Tell the Whole Story? Evaluating Design Constraint Compliance in LLM-based Issue Resolution.<br>
+  <span class="italic">Kai Yu, Zhenhao Zhou, Junhao Zeng, Ying Wang, Xueying Du, <strong>Zhiqiang Yuan</strong>, Junwei Liu, Ziyu Zhou, Yujia Wang, Chong Wang, Xin Peng</span>
+  </p>
+
+- <p>
   <a href="https://doi.org/10.1145/3808169"><strong style="color:#008080;">[FSE'26]</strong></a>
   Project-Level C-to-Rust Translation via Pointer Knowledge Graphs.<br>
   <span class="italic"><strong>Zhiqiang Yuan</strong>, Wenjun Mao, Zhuo Chen, Xiyue Shang, Chong Wang, Yiling Lou, Xin Peng</span>
@@ -89,5 +95,5 @@ His primary interest is leveraging advanced Artificial Intelligence methodologie
 
 
 # 💬 Invited Talks
-- *2026*, 受邀参加 2026 开放原子开源生态大会·AI 时代 Rust 编程语言应用与发展论坛。
+- *2026*, 受邀参加 2026 开放原子开源生态大会·AI 时代 Rust 编程语言应用与发展论坛。 \| [\[link\]](https://mp.weixin.qq.com/s/9UySFdp3tgLa9hvBSLjVXw)
 - *2022.10*,  Presentation paper at the ASE'22.  \| [\[video\]](https://www.bilibili.com/video/BV1mV4y1L7c5/?share_source=copy_web&vd_source=e7a1b4e73c4b3ccf3228ca017ba2a9f9/)
