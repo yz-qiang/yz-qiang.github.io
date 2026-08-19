@@ -18,23 +18,30 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Zhiqiang Yuan is currently a Ph.D. candidate at Fudan University. 
-As a member of <a href="http://www.se.fudan.edu.cn/">CodeWisdom Group</a>, he holds a valuable opportunity to work under the guidance of <a href="https://cspengxin.github.io/">Prof. Xin Peng</a> and <a href="https://yilinglou.github.io/index.html"> Prof. Yiling Lou </a>.
+As a member of <a href="http://www.se.fudan.edu.cn/">CodeWisdom Group</a>, he holds a valuable opportunity to work under the guidance of <a href="https://cspengxin.github.io/">Prof. Xin Peng</a>.
 His research primarily focuses on the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific emphasis on the interplay between AI for Software Engineering (AI4SE) and Software Engineering for AI (SE4AI).
 His primary interest is leveraging advanced Artificial Intelligence methodologies, such as large language models and knowledge graphs, to address software engineering challenges and tackle the software engineering problems prevalent in AI applications and scenarios.
 
 
 # 🔥 News
+- 🎉🎉 <a href="https://doi.org/10.1145/3808169">Project-Level C-to-Rust Translation via Pointer Knowledge Graphs</a> is accepted to FSE 2026.
+- 🎉🎉 <a href="https://doi.org/10.1145/3797099">TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained Execution Alignment</a> is accepted to FSE 2026.
 - 🎉🎉 <a href="https://arxiv.org/pdf/2305.04207.pdf">ChatTester</a> (LLM-based Unit Test Generation) is accepted to <a href="https://2024.esec-fse.org/track/fse-2024-research-papers">FSE 2024</a>.
 
 
 # 📝 Publications 
 
 - <p>
-  <a href="https://arxiv.org/pdf/2409.19894v1"><strong style="color:#008080;"> [Preprint]</strong></a>
-  TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation.<br>
-  <span class="italic"><strong>Zhiqiang Yuan</strong>, Weitong Chen, Hanlin Wang, Kai Yu, Xin Peng, Yiling Lou</span>
+  <a href="https://doi.org/10.1145/3808169"><strong style="color:#008080;">[FSE'26]</strong></a>
+  Project-Level C-to-Rust Translation via Pointer Knowledge Graphs.<br>
+  <span class="italic"><strong>Zhiqiang Yuan</strong>, Wenjun Mao, Zhuo Chen, Xiyue Shang, Chong Wang, Yiling Lou, Xin Peng</span>
   </p>
-  
+
+- <p>
+  <a href="https://doi.org/10.1145/3797099"><strong style="color:#008080;">[FSE'26]</strong></a>
+  TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained Execution Alignment.<br>
+  <span class="italic"><strong>Zhiqiang Yuan</strong>, Weitong Chen, Hanlin Wang, Xin Peng, Zhenpeng Chen, Yiling Lou</span>
+  </p>
 
 - <p>
   <a href="https://arxiv.org/abs/2305.04207"><strong style="color:#008080;">[FSE'24]</strong></a>
